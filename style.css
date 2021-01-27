@@ -1,0 +1,17 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  background-color: black;
+}
+
+#canvas1 {
+  /* filter: blur(1px); */
+  border-radius: 30px;
+  width: 800px;
+  height: 577px;
+  position: absolute;
+  top: 5vh;
+  left: 50%;
+  transform: translateX(-50%);
+}
